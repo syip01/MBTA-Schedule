@@ -1,0 +1,28 @@
+# # is for comments
+# Format: MBTA Station Name|Location Alias in database
+Ashmont|place-asmnl
+Shawmut|place-smmnl
+Fields Corner|place-fldcr
+Savin Hill|place-shmnl
+Braintree|place-brntn
+Quincy Adams|place-qamnl
+Quincy Center|place-qnctr
+North Quincy|place-nqncy
+JFK/Umass|place-jfk
+JFK|place-jfk
+Andrew|place-andrw
+Broadway|place-brdwy
+South Station|place-sstat
+Downtown Crossing|place-dwnxg
+Park Street|place-pktrm
+Charles/MGH|place-chmnl
+Charles|place-chmnl
+Kendall/MIT|place-knncl
+Kendall|place-knncl
+Central|place-cntsq
+Harvard|place-harsq
+Porter|place-portr
+Davis|place-davis
+Alewife|place-alfcl
+North Station|place-north
+Back Bay|place-bbsta
